@@ -17,3 +17,4 @@ public class AlarmLog {
     private String title;
     private String message;
 }
+
